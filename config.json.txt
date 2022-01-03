@@ -1,0 +1,5 @@
+{
+              "ip":"oneblock9933.aternos.me(:",
+              "port": "39184",
+              "name": "Bot24x7"
+}
